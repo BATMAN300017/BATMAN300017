@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="1616px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1010px" height="1693px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,92 +15,96 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="1616px" fill="#f6f8fa" rx="15"/>
-<text x="35" y="35" fill="#24292f">
-<tspan x="35" y="35">BATMAN300017@github</tspan> -—————————————————————————————————————————————————————————————————————
-<tspan x="35" y="55" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Fedora, Kali Linux</tspan>
-<tspan x="35" y="75" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">19 years, 6 months, 1 day</tspan>
-<tspan x="35" y="95" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Personal Workstation</tspan>
-<tspan x="35" y="115" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">CAM (Computer Aided Manufacturing) Operator</tspan>
-<tspan x="35" y="135" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">IntelliJ IDEA, CLion, VS Code</tspan>
-<tspan x="35" y="155" class="cc">. </tspan>
-<tspan x="35" y="175" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Python, Java</tspan>
-<tspan x="35" y="195" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">English, Hindi</tspan>
-<tspan x="35" y="215" class="cc">. </tspan>
-<tspan x="35" y="235" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Minecraft Modding &amp; Playing, System Hacking</tspan>
-<tspan x="35" y="255" class="cc">. </tspan>
-<tspan x="35" y="275">- Contact</tspan> -—————————————————————————————————————————————————————————————————————————
-<tspan x="35" y="295" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">AJsharma2.0017q@gmail.com</tspan>
-<tspan x="35" y="315" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">ajsharma2.0018@gmail.com</tspan>
-<tspan x="35" y="335" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">anu45jsharma</tspan>
-<tspan x="35" y="355">- GitHub Stats</tspan> -————————————————————————————————————————————————————————————————————
-<tspan x="35" y="375" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">3</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">3</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">0</tspan>
-<tspan x="35" y="395" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................... </tspan><tspan class="value" id="commit_data">56</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">0</tspan>
-<tspan x="35" y="415" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"> . </tspan><tspan class="value" id="loc_data">25,480</tspan> ( <tspan class="addColor" id="loc_add">28,910</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">3,430</tspan><tspan class="delColor">--</tspan> )
-<tspan x="35" y="445">- Portrait</tspan> -————————————————————————————————————————————————————————————————————————
+<rect width="1010px" height="1693px" fill="#f6f8fa" rx="15"/>
+<text x="20" y="35" fill="#24292f">
+<tspan x="20" y="35">BATMAN300017@github</tspan> -—————————————————————————————————————————————————————————————————————————————————————
+<tspan x="20" y="55" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Fedora, Kali Linux</tspan>
+<tspan x="20" y="75" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">19 years, 6 months, 1 day</tspan>
+<tspan x="20" y="95" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Personal Workstation</tspan>
+<tspan x="20" y="115" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">CAM (Computer Aided Manufacturing) Operator</tspan>
+<tspan x="20" y="135" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">IntelliJ IDEA, CLion, VS Code</tspan>
+<tspan x="20" y="155" class="cc">. </tspan>
+<tspan x="20" y="175" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Python, Java</tspan>
+<tspan x="20" y="195" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">English, Hindi</tspan>
+<tspan x="20" y="215" class="cc">. </tspan>
+<tspan x="20" y="235" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Minecraft Modding &amp; Playing, System Hacking</tspan>
+<tspan x="20" y="255" class="cc">. </tspan>
+<tspan x="20" y="275">- Contact</tspan> -—————————————————————————————————————————————————————————————————————————————————————————
+<tspan x="20" y="295" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">AJsharma2.0017q@gmail.com</tspan>
+<tspan x="20" y="315" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">ajsharma2.0018@gmail.com</tspan>
+<tspan x="20" y="335" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">anu45jsharma</tspan>
+<tspan x="20" y="355">- GitHub Stats</tspan> -————————————————————————————————————————————————————————————————————————————————————
+<tspan x="20" y="375" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">3</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">3</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">0</tspan>
+<tspan x="20" y="395" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................... </tspan><tspan class="value" id="commit_data">56</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">0</tspan>
+<tspan x="20" y="415" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"> . </tspan><tspan class="value" id="loc_data">25,480</tspan> ( <tspan class="addColor" id="loc_add">28,910</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">3,430</tspan><tspan class="delColor">--</tspan> )
+<tspan x="20" y="445">- Portrait</tspan> -————————————————————————————————————————————————————————————————————————————————————————
 </text>
-<text x="35" y="475" fill="#24292f" class="ascii">
-<tspan x="35" y="475">:nw~.;._     _ .   :~q.:_q   ~~-  r,nr-y_ggwqsggggggggggggggggggggg~gggg__gg~ggpgggg;</tspan>
-<tspan x="35" y="493">  ;:?_,=/,.`.B~  &amp;apos;$[W$$@$ak&amp;amp;p_~q__B3M@@@@g@@E@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@)@@_@P@T|</tspan>
-<tspan x="35" y="511">._E%. .f7)_ _ . ,~@@@@@@@g@@@@@@@@@@W@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@QZ ;j&amp;apos;</tspan>
-<tspan x="35" y="529">|Bgbkm$V@B@    .p6@@W@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@![Xi  !</tspan>
-<tspan x="35" y="547">.[g@ [#g@*\= * _ $[@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@]__K_   </tspan>
-<tspan x="35" y="565">|@@@kW@@@Q._0..&amp;quot;uMw@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@MW[@YN&amp;apos;,  </tspan>
-<tspan x="35" y="583">|@@@@@@@W@@WT:,:H$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@W@H,..</tspan>
-<tspan x="35" y="601">|@@@@@@@@g@b   .wB9W@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@4,A_ </tspan>
-<tspan x="35" y="619">|@@@@@@W@@g@*L   | S@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BE@WP T :</tspan>
-<tspan x="35" y="637">|@@@@@@@@8@V_,   !o8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B@@@g  .,</tspan>
-<tspan x="35" y="655">|@@@@@@@@@~WK@ . $ 7@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@_&amp;apos;:|</tspan>
-<tspan x="35" y="673">|@@@@@@@@@@@@`. ~  7#@@@@@@@@@@@@@@@@@@@@@BBP&amp;gt;+&amp;quot;&amp;quot;&amp;quot;&amp;quot;4@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&amp;apos;  &amp;apos;</tspan>
-<tspan x="35" y="691">|@@@@@@@@@@@bT.=l  -@W@@@@@@@@@@@@@@@=_ .             &amp;quot;P0@@@@@@@@@@@@@@B@@@@@@@@08;_,</tspan>
-<tspan x="35" y="709">|@@@@@@@@@@@ . :.  $@@@@@@@@@@@@@P  `,  . .             &amp;apos;B@@@@@@@@@@@@@@@@@@@@@@@%- :</tspan>
-<tspan x="35" y="727">|@@@@@@@@@{  _ ~]@R@@@@@@@@@@@@P    :. a   &amp;apos;         .    &amp;apos;0@@@B@@@@@@@@@@@@@@@@W    </tspan>
-<tspan x="35" y="745">|@@@@@@@@yX    Q@@@@@@@@@@@@@@D  ^.&amp;quot;. .  . .       .       ^@@z3sg4@@g@@@@@@@@@@P@m.;</tspan>
-<tspan x="35" y="763">|@@@@@@@W]_ : 0@@@@@@@@@@@@@@&amp;quot;.   __   .,                  ` !{&amp;gt;.|y_P[z0@B@@@@@B_sk,&amp;apos;</tspan>
-<tspan x="35" y="781">|@@@@@@@@W; ,yK@@@Q@@@@@@@@F  ,__N  . .,                   , .j&amp;apos;_ .&amp;apos; ?^@4@@@@@@@NbA, </tspan>
-<tspan x="35" y="799">|@@@@@@Q, ``$&amp;quot;@#$@@@@@@@@@@, ,  , &amp;quot; &amp;quot; ..   .     .            a;;[ .^ vQ0@@@gQ@Mf &amp;apos;  </tspan>
-<tspan x="35" y="817">|@@@@@W,X &amp;apos;&amp;apos;|,@@@@@@@@@@@@W  ^. _ ^=&amp;gt;_,!y_-.             &amp;apos;. ; \t_!h_  _  @@@9Bg@]_&amp;apos; |</tspan>
-<tspan x="35" y="835">|@@@@@@^  __ZB@@@@@@@@@@@@; : ._v -&amp;apos;&amp;apos;*_&amp;apos;_=&amp;quot;~__       ..  .,,,  -my@B@_|&amp;apos; . 0@@@@@i&amp;quot; .</tspan>
-<tspan x="35" y="853">|@@@@@ES1~x&amp;apos;7M@@@@@@@@@@@@,.. .f,WWgt__+,_&amp;apos;&amp;lt;  &amp;quot;L...__   .   ,  N_.CMrd%@  .@@@@@@ !,;</tspan>
-<tspan x="35" y="871">|@@@@@Qj : _;g@@@@@R@@@@@B_    |[@@@@\&amp;quot;__, .&amp;quot; u,\. &amp;apos;``\``v .? . &amp;apos; fDtA@B, .^q@@@q .  </tspan>
-<tspan x="35" y="889">|@@@@@@]l N&amp;quot;!@@@@@@@@@@@@@R&amp;apos;. &amp;apos; /@@@@._@@@@@@@g%,@ ;g_  lj..  ! al_/8g(RF.-[[_@Wg* .!</tspan>
-<tspan x="35" y="907">|@@@@@W&amp;amp;^&amp;apos;...QB@@@@@@@W@@@B   /_@@@@Fc@@@@@@@@@_ &amp;quot;N&amp;apos;@@@`.|&amp;apos;7&amp;apos;.. ,_B&amp;apos;[w~G;&amp;lt; !_%Q@M,  |</tspan>
-<tspan x="35" y="925">|@@@@@@@q, &amp;apos;,@@@@@@@@@B@@]_  &amp;apos;{@@BP=--4@@@@@@@@@    _@@@:&amp;apos;[/  &amp;apos; _:Y_[7PB`;,9\8W@@&amp;quot;^ ;</tspan>
-<tspan x="35" y="943">|@@@@@@@&amp;quot;..}L Eg@?F 4aR8&amp;apos;&amp;apos;_@! *  &amp;quot;` &amp;quot; -&amp;quot;~&amp;quot;=@@@@ *, +&amp;quot;&amp;gt; &amp;quot;   . _&amp;apos;`  .a4Z,g&amp;apos;&amp;quot;-$`W=&amp;quot;:    </tspan>
-<tspan x="35" y="961">|@@@@@R@?@@@@L! ... -``, ![@,!p   _,+..   .&amp;apos;&amp;quot;&amp;gt;.&amp;quot;   _    ._ .__. __ T&amp;apos;`M;    0 t ^ ..,</tspan>
-<tspan x="35" y="979">|@@@@@@@WgD + . &amp;apos;:,= -,  :Tg:g@h .,+ _\z IS    ~..  &amp;apos;^`,F,.g ~&amp;gt;-&amp;apos;..`&amp;apos;|f)%^&amp;quot;~~   [: *;</tspan>
-<tspan x="35" y="997">|@@@@@@@@/ :_,. :._ .   .^l$|@@@ @^7L_gg@@&amp;quot;.g&amp;apos;`&amp;quot;q&amp;apos;@ *|:,. ,fWm_*~. ,.`  _  &amp;lt;DD&amp;quot;  &amp;quot;.~&amp;apos;</tspan>
-<tspan x="35" y="1015">|@@@@@@@  &amp;quot; .&amp;quot;+_ ,         0;(@@LPB,._oqp- /@@l\\*B@d.;@  .:  `J` _ .  a` j_}.: .  |&amp;apos;</tspan>
-<tspan x="35" y="1033">|@@@@@@. ! .               &amp;apos;&amp;apos; @@@P==~---~g?@@@,L_ &amp;apos;&amp;apos;&amp;lt; &amp;quot;  . .        ! &amp;quot;.:a@F= _   _],</tspan>
-<tspan x="35" y="1051">|@@@@@?_&amp;apos;*                   ![@@ @@@@@g&amp;amp;@|@@@@T!@@gg~&amp;quot;@&amp;apos;       &amp;apos;   !  ! Q@4_  .&amp;apos;  ;|</tspan>
-<tspan x="35" y="1069">|@@@@@   ~^                    @@!@@@@@6l\k\@J@\@@@@@@ F               .&amp;apos; B\? .+;: ^ </tspan>
-<tspan x="35" y="1087">|@@@@@:.             .       .:4@@&amp;apos;@@Bf&amp;quot;# ..&amp;lt;- &amp;quot;f@@@@@@     .        . &amp;quot;,  nJqB@gg=/|</tspan>
-<tspan x="35" y="1105">|@@@@|.: .+_            . .   .;`@@@W,;,__. _. : +&amp;apos;_F,,                 ^ ;fB@P@FXg];</tspan>
-<tspan x="35" y="1123">|@@@@   !. .&amp;quot;.    .,    _&amp;apos; ,   , ,&amp;lt;P  __&amp;quot;.-___- &amp;quot; &amp;apos;[P .                 _;^dB%g$d[4E;</tspan>
-<tspan x="35" y="1141">|@@@@,`&amp;quot;  .  ,   . ~!_ ,9;[_&amp;gt;_;   _  _T@@@.=ym.gE:., ..   _#k  ,   .. -^.` ,-/W_+[Wy!</tspan>
-<tspan x="35" y="1159">|@@@@}     &amp;apos;-, ,&amp;quot;_  &amp;amp;*Bmg@l_47  ,  .  + @@A  _@P,.    ,.,.&amp;lt; ^  4       ,. [l@]4RMbu(|</tspan>
-<tspan x="35" y="1177">|@@@@h `   -    =,&amp;quot;0&amp;quot; `&amp;quot;&amp;quot;  &amp;quot;&amp;apos; .!.  i   &amp;quot;L_.- ;_  :&amp;apos; -,, ,~ .:_ `!   - &amp;apos;`   @BPW , &amp;apos;_.</tspan>
-<tspan x="35" y="1195">|@@@@]         ., ~. Z`v_;F &amp;apos; P \;&amp;apos;  +:    ,  ., . . &amp;apos;     !   . :_ &amp;apos;  &amp;quot; !., &amp;apos;.N  &amp;quot;+;</tspan>
-<tspan x="35" y="1213">|@@@@]   ,_ : ;.  . _ : ` .  , ~  \vw_   .^.   +    ,,   ^ ,. &amp;apos;  \ :.:   .] `. ` &amp;apos;.  </tspan>
-<tspan x="35" y="1231">|@@@B .&amp;apos;&amp;quot; tF4&amp;apos;.@_N  .`&amp;apos;;. .` g:!  &amp;apos;@&amp;apos;;-T .= %P/ :  : ^ . .&amp;apos; ..&amp;quot;.x ; ::_-  -   `^.~ ~ </tspan>
-<tspan x="35" y="1249">|@@&amp;apos;/__. ..F_`_&amp;quot;B.;....^ .;  + 5   &amp;quot;Bl ~u*&amp;quot;g_    &amp;apos;.:.. -&amp;apos; .   `vq.   &amp;apos;T y`. ._^  &amp;apos; :,</tspan>
-<tspan x="35" y="1267">|&amp;quot;.2_; : &amp;quot;!`_^@)p&amp;apos;.&amp;apos;   :?+       . :.  x,&amp;quot;. . .      .&amp;apos; %`&amp;apos;` i_: `  &amp;apos; ,__: :-.`:,_ H </tspan>
-<tspan x="35" y="1285">  ,,_`. !Z ;;_&amp;apos;[m_ ,  ..    . /.  *.  m,  ^^. ,^&amp;apos;.  . :. , :, :. ,, e   .. |&amp;gt;.  . _.|</tspan>
-<tspan x="35" y="1303"> .&amp;apos;`._. \ . ,Psz_&amp;apos;    :._W &amp;apos;|  , &amp;apos; ,  *&amp;apos;   `      &amp;apos; .:;; * ; ^  &amp;apos;.,,/!. ,&amp;lt; ;&amp;apos;   &amp;apos;&amp;apos;@#&amp;apos;</tspan>
-<tspan x="35" y="1321">  &amp;apos;&amp;apos;&amp;apos;   [ ;. &amp;quot;#yI    x + ,\^   . ; ...&amp;apos;+ ; . _ ~     &amp;apos;Sra.`   1 *`R   ;;!  :,,,&amp;gt;:`  .</tspan>
-<tspan x="35" y="1339">&amp;apos;! . `&amp;apos; z ..[l((:   L`|,l,: ;:  .2 &amp;quot;  ,:%`^  , .xsG+-.PT^T:   ^. Yf.&amp;apos;^,.&amp;quot;:`__ . u Z]!</tspan>
-<tspan x="35" y="1357">       .J, :.~v.~.... &amp;gt;&amp;apos;&amp;apos;w,`.^&amp;quot;_` _:,  /__.`&amp;apos; L.,F_ oO*;_,_ . = ..&amp;quot;!  /,&amp;apos;    &amp;apos;.  &amp;apos;_` </tspan>
-<tspan x="35" y="1375">.~ _E &amp;apos; ,f+W o~  \-~!&amp;apos;,_`.jG0%!_Fgh.`/&amp;apos;  (K&amp;apos;_ ,  q ,BT&amp;gt;?#j)|. &amp;apos;^  _?, ;    ,  &amp;apos;l,.! &amp;apos;</tspan>
-<tspan x="35" y="1393">|4, . &amp;apos;- =?b; _&amp;apos;.,r ~!&amp;apos; _-_x^~&amp;apos;~,&amp;quot; D.Z&amp;apos; &amp;apos;,&amp;quot;-:*-&amp;lt;_.&amp;apos; ; &amp;apos;Rq4$ ..&amp;apos;_/ `].   !: {~,   :!. </tspan>
-<tspan x="35" y="1411">|V:  .   _.&amp;apos;R.[.]*  ^_35&amp;apos;.~F &amp;quot;4,&amp;apos;&amp;apos;C~mo  Z$K.:/ a &amp;apos;A/X. l[!W,,`:. &amp;apos;&amp;apos;U` .+  `!@,., &amp;apos; ,&amp;apos;</tspan>
-<tspan x="35" y="1429"> MB_, -~ _ -] &amp;apos;Hz\m, :__&amp;quot;.[ f&amp;apos;,&amp;apos;  ^5;,|&amp;quot; . &amp;apos;c[ `,; F&amp;quot;^  ,o~ S     vo&amp;apos;  \&amp;apos;&amp;apos;  /,i . . .</tspan>
-<tspan x="35" y="1447">&amp;apos; &amp;gt;&amp;gt;~_;~_*/a)-&amp;apos;^_/~1] ~\j(  &amp;apos; .] { [5_.b  ` &amp;quot;*. T|.0L,.|9}  5&amp;apos;  ^;___  [|.  j._`&amp;quot;  `,</tspan>
-<tspan x="35" y="1465"> :F/g!&amp;quot;&amp;quot;%Lz{Q &amp;quot;)/BZc;)_a^#w\ , {&amp;gt;^l$&amp;quot;; fBB%,_ :j , ~&amp;lt;{$[; ,&amp;gt;G. ! .&amp;quot;? ..# : :|&amp;quot;&amp;apos;`^ .&amp;apos;.</tspan>
-<tspan x="35" y="1483">&amp;apos;.&amp;apos; gAl[yB],j;.&amp;apos;yC/M[_h-&amp;apos;&amp;gt;,-\3.; :.^t&amp;quot;&amp;quot;]P@%d__~! $  ..!9  ;`}&amp;apos; S .^&amp;gt;;!! &amp;apos; g. B|  ....</tspan>
-<tspan x="35" y="1501">   &amp;apos;@QPy@A,p[].+= _\. .)J&amp;quot;+ _,?|t_L._![E;,W Z/&amp;quot;E g :V, W ~ ; ,.R,.&amp;quot;y,l `:! u ;5,r,,:,</tspan>
-<tspan x="35" y="1519">!L.&amp;apos; &amp;quot;B1A::d[B&amp;apos;&amp;lt; &amp;lt;&amp;lt;&amp;apos;.;:{ !  - .l;~=Zx [@W]&amp;apos;$..Id!y+~&amp;lt;&amp;apos;9. :R _;&amp;apos;\&amp;apos;..$;V l` l&amp;quot;&amp;lt; N.   ;;</tspan>
-<tspan x="35" y="1537">![;_1  . _@RgJ~,    -  ,  _..&amp;quot;!,,1cs]!(zL&amp;gt;K/;`:gF~ !jT_&amp;quot;*/ ,,:p;4^_l_ |,,  &amp;quot;   .:  &amp;apos;;</tspan>
-<tspan x="35" y="1555">.r,_-_  &amp;quot;_7~[#WhX_ _-.._,__ + !;  @   &amp;quot;E-@@d&amp;apos;/~@jr/ &amp;apos;  f&amp;apos;&amp;apos;  _.r~MuNWF_.&amp;apos; ..!_   P`  |</tspan>
-<tspan x="35" y="1573">  ^&amp;quot;&amp;quot;&amp;quot;^&amp;quot;&amp;quot; ^       `&amp;quot; &amp;apos;^&amp;quot;&amp;quot;^`   &amp;apos;&amp;apos; &amp;apos;&amp;apos;&amp;quot; `   &amp;quot;^ &amp;apos;&amp;quot;&amp;quot;&amp;quot;   ^ &amp;apos;   ` ^   ` &amp;quot;&amp;quot;^ &amp;apos;  &amp;quot;  &amp;quot;&amp;apos;`   ^   </tspan>
+<text x="20" y="475" fill="#24292f" class="ascii">
+<tspan x="20" y="475"> ====--==============-=====================--====--=====-====-==---=====-=====-=======-============ </tspan>
+<tspan x="20" y="493"> ====================-======-===-=-----=--==--=====-==--===-==-==-==-=-====-===--==---====-=-====== </tspan>
+<tspan x="20" y="511"> ==================================-==========-=---=--==-=--=====-=-=====-=============--========== </tspan>
+<tspan x="20" y="529"> -======================-=======----==-==-===-==========-==-=-----==--==-===-=-====-==-============ </tspan>
+<tspan x="20" y="547"> =========================----==========-=--==--=--------=-==--=--==-----=-==--=--==----=========== </tspan>
+<tspan x="20" y="565"> =================-==--==-===-==--=----==-=-=====----====---=-====--======-=-======-============-== </tspan>
+<tspan x="20" y="583"> ======================--==-=---===--====-----------==-========--==-=--==--==---=--===-===-======== </tspan>
+<tspan x="20" y="601"> ==========================-=-====-==-------=----=----=------------------=--===--=======-========== </tspan>
+<tspan x="20" y="619"> ==++=========-====================-----===----------=-=-------=----=-==------==----=============== </tspan>
+<tspan x="20" y="637"> ==========-=======-======--------=---===---======--------=-====--=--------=-====--===--======-==== </tspan>
+<tspan x="20" y="655"> ======================--=========--====-=-==----:...      ..--=--=-===----------====-============= </tspan>
+<tspan x="20" y="673"> ===========================-==--------=---.       .-%*@@@@=   ..:------=-=====-=---=-============= </tspan>
+<tspan x="20" y="691"> +===============-=======-=-=----===---:    +@@@@@@@@@%#*#@@@@@-  .:-------===-======-============= </tspan>
+<tspan x="20" y="709"> ===========================-----=---.  :@@@@@@@@@@@#+*+*++%%#@@@#:  .--------=---=-=-=--=-===-==== </tspan>
+<tspan x="20" y="727"> ===+=====================-==-=====:  @@@@@@@*@@#:@@@@@@@+:%@@@+%@@@# .---------------=-=========== </tspan>
+<tspan x="20" y="745"> ===+==============-===-=-----=---. .@@@@%@@%*%#@%#:  ::#%@@*%%@@+*+@% .---------=-----=-------=-== </tspan>
+<tspan x="20" y="763"> +++=============--========-==--.   @@@@@@@@%*%%#@@@@@@@@%@%*=@@=@@%@%@ .---------==--=-=========== </tspan>
+<tspan x="20" y="781"> ====================--====-=--: =@@@@@%%%%#@@@%%#@@#+#*%%* %+@#@#**@@@  :-=-----=-==-==--========= </tspan>
+<tspan x="20" y="799"> ===============-=======-=--=--.@@@#%%@@@%@@#%%#=-=**-=%*=@-+%@#@#@%=@@@ .-----------========-===-= </tspan>
+<tspan x="20" y="817"> =============-======-=====---: =@@@@@%@@@@@%@@@@@@%*@@@=+%@@++*@#@@@*#@- -------------===--======= </tspan>
+<tspan x="20" y="835"> =+==============-===-=-------. @@%@@@@@@@@@@@@@@@@@@++=-#@+*+@@%##%@@@@@ -=------------==--==-==== </tspan>
+<tspan x="20" y="853"> ==========---====-----======= @@@%@@@-=*+*@@@@@%-*%@@@@@#@#@@@@@@@@@@@@@ :------===-==-=-========= </tspan>
+<tspan x="20" y="871"> ===============-=======-===-- @@@#+%+.......  ..=.#-*@@@*@%@@@@@@@%%@@@@ .-:------------========== </tspan>
+<tspan x="20" y="889"> ==============-====-=====-=-= :@#%@*:.:-::.::..:....:..*@%#+-%#@@@@@#%@@ :--------------==--====== </tspan>
+<tspan x="20" y="907"> ==+======--====-=======---===. @#%@@%--====-==:::::.....--.-:::-=@@@@@@- :----------=--=-=====-=== </tspan>
+<tspan x="20" y="925"> ================--=-----====-: @@@@::-===-----:-:::-----#.-.=-::-*@@@@@  ::---------------======== </tspan>
+<tspan x="20" y="943"> ==============-===----=-===-:: @@@....      ......:::..:+.=@.:---=@@@@@ .-:----------=----===-==== </tspan>
+<tspan x="20" y="961"> ==========-====----:.....    #=.@@=-+@@@##@-..    ... .*  *       +@=#  ---------------=========== </tspan>
+<tspan x="20" y="979"> =============:..   .=++*#%@@@.- @--%*@%#@@@@@+@@+.   -.::***%@@@@-+@        .:-------==-=========- </tspan>
+<tspan x="20" y="997"> ========--:....@@@@@@@@@@@@@@  =@ :.@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@     --------=-======== </tspan>
+<tspan x="20" y="1015"> ========:..@@@@@#*+*********@- +@.-.-@%@@@@@@%%@@@@ .@@@@@@@@@@#*#@#**#%@@@@@@@   .----=====-===== </tspan>
+<tspan x="20" y="1033"> ======-..%@@%*+*@@#%@@%%@%%%@@..@.=::@@@@@@@@@@@@@   :@@@@@@@@@%#@@.+******#%@@@@=  -==-========== </tspan>
+<tspan x="20" y="1051"> =+====.:@%#%@@@@@@@@%@@@%#@@@@@ @:--. @@@@@@@@@@@ . ..@@@@@@@@@@@@*#%#######*#%%@@@  :==---======= </tspan>
+<tspan x="20" y="1069"> =====-.@@@%#*==-:::--=====---=@:@+---..        .:.:::..-+*@@@@@+..@*%######**###*@@@= -=========== </tspan>
+<tspan x="20" y="1087"> ++++=.+@%%@@@@@#- ..      ...:-*@@-:---:::....=:+::...:-         @*---=-+=+*+##%%#%@@..=========== </tspan>
+<tspan x="20" y="1105"> ====-.@@#+*####+***===++++=-:*#=@@=.-==--:::::-  .    ..:...:::.-@..-=-:::--+***##%%@@ -========== </tspan>
+<tspan x="20" y="1123"> ++=+::@+%@*--======-==*++***:.-==@%..:--::.    %@@@=-@@.  .:--..@= :::.-=+-=-***#%%@@@ :+========= </tspan>
+<tspan x="20" y="1141"> ====.*@%:#@@%+-=+++**+:++#@@@@=---@%::.::.:@@@@++@@@@*%@@@=.:. @# :=.    .-.-=**#*#%#@:.=========+ </tspan>
+<tspan x="20" y="1159"> +++=:%%@@-+@@@@+:-+@@@@#*#@@@@@#*+@@%=::.*@@=*#+=-...--++@@. .@@+##+-@@@%+#=*@%+#%@@@@*.========== </tspan>
+<tspan x="20" y="1177"> ++==:@@*@@@ :@@@@#:+%@@@@#%@@@@%@@@@@%## *-  .:=++%%@@*:..% *@@@@@@@@@@@@@@@@#=+%@@%*@:.========== </tspan>
+<tspan x="20" y="1195"> +=++.:+@+ @@@=.@%@@%*%@@@@%@@@@@@@*=#@@%@@@#*-..==#%::..:@%@@   .@@@@@@@@@@@@@@@@%=*@@-.========== </tspan>
+<tspan x="20" y="1213"> ++++-+@%%@#+.#@%%%@@@@@@@@@@@@@@@# @@.@@@@@@*::..:.....+@@@@@ +:            -#+=@@@@@@=.===+====== </tspan>
+<tspan x="20" y="1231"> +=++-=@%*. %@@@@@@@@@:           # :@+..@@@@@@%=#@%@*%@@@@@   *@#:::::==--..         .@-++++++==== </tspan>
+<tspan x="20" y="1249"> ++++-#@@@@@@%:        .*------=.##  -@%::=@@@@@@@@@@@@@@@%  ::.#*=::---==-+---*+==--::-..:-*##*+++ </tspan>
+<tspan x="20" y="1267"> +++*+@@@     .-:-==----=#-==--+*%.-:.=@@=...:+*@@@@@:=%@  .-==-=*%*.:-=::++--++::----##===:...:*#* </tspan>
+<tspan x="20" y="1285"> +*#%+   .+==--+=--=----:**--:+%*%:--: :@@%+--::..  .%@=  :----=--*@%.:--=*+===---=+=+- :@*.--:...- </tspan>
+<tspan x="20" y="1303"> *%*..-=:-*+----====+=--:+#-=:#%==---..: +%%%*=-*%@@@@   .--=-=---.-@%.---++==-----++-:+@=.:--==--: </tspan>
+<tspan x="20" y="1321"> #..==-=-=*===----=----=:=%--:+@+-----@%=.:..%%%%.   .-%*  :=---=--.+@::===*+=:--==*=:-@#..=----::= </tspan>
+<tspan x="20" y="1339"> -:=-=-=-=+=====-====----+%-::.#%=::+%-:*%+=-..*:#:@-+++@@@ .-==:--:-@*.---+*=----=+==#@=::--=----= </tspan>
+<tspan x="20" y="1357"> =:+=:---==-=========-=---**=-:++-:+===+#:-+==:-#*:::-=*+-%@+ .-===--%%-:---+=-==-=++*@#::--=--=+=+ </tspan>
+<tspan x="20" y="1375"> +.=%-=--=======-===------+*=:-:- @++=--+:------:@@@@@+:-*@%@@:-----.+@=.:--=+--:-==**%+=-====-===- </tspan>
+<tspan x="20" y="1393"> +::%#=:-===-=-=====---=---+*-:==*=-::=-+*==-----..   :+-::.:+#-====:-%#::--===--+=++#%+-:--:-:---- </tspan>
+<tspan x="20" y="1411"> +:.+@-:-==*==--------==---=+*==++*+++===+===--==-=--+=:-==-----==----#%-:---==-=+++*%%=.::----::-- </tspan>
+<tspan x="20" y="1429"> +-:.*::----+=====--===--=:==*+===----+=-=+-========#++-===:--==-==-=:=%+:------=+*+*@. :+:.:----=- </tspan>
+<tspan x="20" y="1447"> +-+=-:--======-----==--==-==+++++*#=--=======-=---.%*=--=++==-======--##-:===---+**#@ .-+*=::-:--- </tspan>
+<tspan x="20" y="1465"> +-=%:-==---=+===--==---=-----==:::-+*+---=-==-=-==-%+---=-======---=::+%=-=--=-:=##%@..:*#=:----=- </tspan>
+<tspan x="20" y="1483"> +=:@.=-----=+==---------====-====----+*-=+-++==---:#----=----======----**=-----:-*#%%..:#%-:::--:  </tspan>
+<tspan x="20" y="1501"> -+=+.------=+=-=====-====----==+--=---**==-+:--*==-#==--+=====-==-===--*#=--===--+#%%:::#+*-.-=. # </tspan>
+<tspan x="20" y="1519"> =-=--====--=+==========--===-==+=--==-=+===+=-+++=-#=---+==----*=---=--+#=-=---:-*#%%-:.:#-+=: .@@ </tspan>
+<tspan x="20" y="1537"> -:+-=--==---+=-=-==----=====---+*=----====+==----=-----=+===-=+*====+=-=#----==--=*#@-:: ##@* :@@# </tspan>
+<tspan x="20" y="1555"> *:=-==-=-=-=*====-=-===---======*+=--=====+--==-==-=--=+=-===-==--==---*#-----=-==+*%=:- @@% :@@@= </tspan>
+<tspan x="20" y="1573"> %+-=-=--==-=+=-=--=-=-====------=*++---=====--==--====++=-====++==-----%+--=-==---*%@=:-. @=.@@%+. </tspan>
+<tspan x="20" y="1591"> =@:--=---=--=======--=-========--=++-----=====-===-+++*+=====++==----=##:--=--==--+#%*=-: @ *@+++. </tspan>
+<tspan x="20" y="1609"> -=-====-===+====--=======-========+#=-======-=-===-+=++=-=--=+=----=+#*=:------====#%*=-- @#*@#*+  </tspan>
+<tspan x="20" y="1627"> ==----=----==-=------======-=--==--+*+=-:-==---=---+*+=-===-==-----+##=---==-------+##=-:..%@@@%*  </tspan>
+<tspan x="20" y="1645">                                                                                              .*=   </tspan>
 </text>
 </svg>
